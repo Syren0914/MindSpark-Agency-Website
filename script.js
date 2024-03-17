@@ -23,6 +23,24 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   });
 
+  // Redirect
+
+  function redirectToTestimonial(){
+    window.location.href = 'index.html#testimonial';
+  }
+  function redirectToContact(){
+    window.location.href = 'index.html#contact';
+  }
+  function redirectToServices(){
+    window.location.href = 'index.html#services';
+  }
+  function redirectToAbout(){
+    window.location.href = 'index.html#about';
+  }
+  function redirectToServices(){
+    window.location.href = 'index.html#services';
+  }
+  
 
 
 
